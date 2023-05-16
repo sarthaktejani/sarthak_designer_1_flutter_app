@@ -39,7 +39,7 @@ class _HomePageState extends State<HomePage> {
                 selectedIndex = 1;
               });
             },
-            child: Text("Add"),
+            child: Text("ad to cart"),
           ),
         ],
       ),
